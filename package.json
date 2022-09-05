@@ -1,0 +1,46 @@
+{
+  "name": "trello-clone",
+  "version": "1.0.0",
+  "description": "README",
+<<<<<<< HEAD
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "npm run build && electron ."
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-beautiful-dnd": "^13.1.0",
+    "react-dom": "^17.0.2",
+    "react-feather": "^2.0.9"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.13",
+    "@babel/preset-env": "^7.18.10",
+    "@babel/preset-react": "^7.18.6",
+    "@types/core-js": "^2.5.5",
+    "babel-loader": "^8.2.5",
+    "css-loader": "^6.7.1",
+    "electron": "^20.1.1",
+    "sass": "^1.54.8",
+    "sass-loader": "^13.0.2",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+=======
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> bd0623c6bdaff5a484a8235ff3d54733a4728f73
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabin-arrasoftware/trello-clone.git"
+  },
+  "author": "Sabin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabin-arrasoftware/trello-clone/issues"
+  },
+  "homepage": "https://github.com/sabin-arrasoftware/trello-clone#readme"
+}
