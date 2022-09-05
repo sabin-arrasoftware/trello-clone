@@ -2,8 +2,6 @@
   "name": "trello-clone",
   "version": "1.0.0",
   "description": "README",
-<<<<<<< HEAD
-<<<<<<< HEAD
   "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,26 +15,12 @@
     "react-feather": "^2.0.9"
   },
   "devDependencies": {
-    "@babel/core": "^7.18.13",
-    "@babel/preset-env": "^7.18.10",
-    "@babel/preset-react": "^7.18.6",
     "@types/core-js": "^2.5.5",
-    "babel-loader": "^8.2.5",
-    "css-loader": "^6.7.1",
     "electron": "^20.1.1",
-    "sass": "^1.54.8",
-    "sass-loader": "^13.0.2",
-    "style-loader": "^3.3.1",
-    "webpack": "^5.74.0",
-    "webpack-cli": "^4.10.0"
-=======
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> bd0623c6bdaff5a484a8235ff3d54733a4728f73
-=======
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> bd0623c6bdaff5a484a8235ff3d54733a4728f73
+    "@types/electron": "^1.6.10",
+    "@types/react": "^18.0.18",
+    "@types/react-beautiful-dnd": "^13.1.2",
+    "@types/react-dom": "^17.0.17"
   },
   "repository": {
     "type": "git",
