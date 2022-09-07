@@ -1,4 +1,4 @@
-const information = document.getElementById('info')
+const information = document.getElementById('root')
 information!.innerText = `This app is using Chrome, Node.js, and Electron`
 
 export {}
